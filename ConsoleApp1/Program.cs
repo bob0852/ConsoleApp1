@@ -10,7 +10,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!" + DateTime.Now.ToString("yyyy/MM/dd"));
-          
+            Console.WriteLine("Hello World!" + DateTime.Now.ToString("yyyy/MM/dd"));
 
         }
     }
